@@ -1,5 +1,3 @@
-![foodappbackgroundimage](https://github.com/user-attachments/assets/9b095487-299e-4f3a-b1ec-2ef27c02bbbe)
-
 # IMAD-Assignment-2-ST10448822
 IMAD Assignment 2 ST10448822 - Happy Pet Haven
 
